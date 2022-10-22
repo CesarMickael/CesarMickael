@@ -1,6 +1,6 @@
 ### 
 - 🎒 Estudante de Analise e desenvolvimento de sistemas
-- 👨‍💻 Estudando REACT atualmente
+- 👨‍💻 Estudando JAVA atualmente
 - 👦 Pronome: Ele/dele
 - 🧠 Gosto de desafios
 
